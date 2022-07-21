@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/decentraland/ui.git"
+    "url": "https://github.com/decentrastates/ui.git"
   },
   "keywords": [
     "decentraland",
@@ -35,9 +35,9 @@
   "author": "Decentraland",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/decentraland/ui/issues"
+    "url": "https://github.com/decentrastates/ui/issues"
   },
-  "homepage": "https://github.com/decentraland/ui#readme",
+  "homepage": "https://github.com/decentrastates/ui#readme",
   "devDependencies": {
     "@storybook/addon-centered": "^5.3.13",
     "@storybook/addon-storysource": "^5.3.13",
